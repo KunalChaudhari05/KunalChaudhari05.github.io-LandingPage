@@ -8,4 +8,4 @@ Task Name : Landing Page
 
 LinkedIn Post : 
 
-[click here to visit my site](https://kunalchaudhari05.github.io/)
+[click here to visit my site](https://kunalchaudhari05.github.io/LandingPage/)
